@@ -1,0 +1,9 @@
+name: 기타
+description: Bug / Task / Feature 중 어디에 넣을지 애매한 것 (조사, 아이디어, 질문 등)
+body:
+  - type: textarea
+    id: content
+    attributes:
+      label: 내용
+    validations:
+      required: true

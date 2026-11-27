@@ -1,0 +1,23 @@
+name: Feature
+description: 새 기능이나 기존 기능의 확장
+type: Feature
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: 원하는 것
+      description: 무엇이 가능해져야 하는지
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: 배경
+      description: 왜 필요한지, 지금은 어떻게 하고 있는지
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: 구현 아이디어 / 범위
+      description: 생각해 둔 방식, 이번에 하지 않을 것 등
