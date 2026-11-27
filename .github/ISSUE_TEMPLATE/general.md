@@ -13,4 +13,15 @@ about: Bugs, features, and tasks (버그, 기능, 작업)
 이번에 하지 않을 것이 있으면 함께 적어주세요.
 
 이슈 유형(Bug / Feature / Task)은 오른쪽 사이드바에서 선택해주세요.
+
+
+** Bug **
+Describe what went wrong and how it should work instead.
+Include reproduction steps or logs if you have them.
+
+** Feature / Task **
+Explain why it is needed before what you want to do.
+Mention anything intentionally left out.
+
+Select the issue type (Bug / Feature / Task) in the right sidebar.
 -->
