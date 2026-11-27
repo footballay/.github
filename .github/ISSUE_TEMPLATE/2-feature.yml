@@ -1,5 +1,5 @@
 name: Feature
-description: 새 기능이나 기존 기능의 확장
+description: New feature or enhancement (새 기능이나 기존 기능 확장)
 type: Feature
 body:
   - type: textarea

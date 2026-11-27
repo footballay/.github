@@ -1,5 +1,5 @@
 name: Task
-description: 기능 추가나 버그가 아닌 작업 (리팩터링, 설정, 테스트 보강 등)
+description: "Work that is neither a feature nor a bug, e.g. refactoring, config, tests (기능 추가나 버그가 아닌 작업. 예: 리팩터링, 설정, 테스트 보강)"
 type: Task
 body:
   - type: textarea

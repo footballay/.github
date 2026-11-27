@@ -1,5 +1,5 @@
 name: Bug
-description: 의도와 다르게 동작하는 문제
+description: Not working as intended (의도와 다르게 동작)
 type: Bug
 body:
   - type: textarea
